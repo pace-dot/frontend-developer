@@ -1,3 +1,7 @@
 # Frontend Developer
 
 Untuk belajar menjadi frontend anda harus mengetahui design atau tampilan dari sebuah website atau aplikasi.
+
+### Referensi Pemula & Lanjutan
+
+- Belajar bahasa pemograman javascript (Basic)

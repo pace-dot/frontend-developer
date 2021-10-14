@@ -5,3 +5,8 @@ Untuk belajar menjadi frontend anda harus mengetahui design atau tampilan dari s
 ### Referensi Pemula & Lanjutan
 
 - Belajar bahasa pemograman javascript (Basic)
+- HTML
+- CSS
+- ReactJS
+- VueJS
+- SvelteJS

@@ -17,3 +17,8 @@ Untuk belajar menjadi frontend anda harus mengetahui design atau tampilan dari s
 - WebStorm
 - Visual Studio Code
 - Sublime Text
+
+### Contributes:
+
+- Ahmad Rio
+- Muhammad Al-Fatih
